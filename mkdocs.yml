@@ -2,10 +2,10 @@
 site_name: PagerDuty Retrospectives Documentation
 site_description: A collection of information about the PagerDuty retrospectives process and industry best practices. This guide will teach you how to build a culture that encourages retrospectives, the most important components to include in your retros, and how to conduct effective retrospective meetings.
 site_author: PagerDuty, Inc.
-site_url: https://retrospectives.pagerduty.com/
+site_url: https://www.pagerduty.co.jp/ops-guides/retrospectives/
 
 # Repository
-repo_url: https://github.com/pagerduty/retrospectives-docs
+repo_url: https://github.com/pagerduty/retrospectives-docs-ja
 
 # Copyright
 copyright: 'Copyright &copy; PagerDuty, Inc.'
