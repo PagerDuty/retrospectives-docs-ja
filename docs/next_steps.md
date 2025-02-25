@@ -1,53 +1,53 @@
 ![PagerDuty](/assets/images/headers/Retros-NextSteps.png)
 
-## Your First Retrospective
+## あなたの最初のレトロスペクティブ
 
-At this point you may be wondering: what next? Time to have your first retrospective! Before you start, there are a few housekeeping items you should take care of in advance of the meeting:
+この時点で、あなたは次は何だろうと思っているかもしれません。最初のレトロスペクティブを行う時間です！始める前に、ミーティングの前に対処しておくべきいくつかの準備事項があります：
 
-- What tools to use
-- Rules of engagement
-- Roles: Who will facilitate and who will take notes
+- 使用するツール
+- エンゲージメントのルール
+- 役割：誰がファシリテートし、誰がノートを取るか
 
-There are several tools to use, which will be guided in part on whether or not your retrospective is in a single conference room or if it's hybrid/fully remote. If you are in a single room, you can easily use physical tools like pens, markers, paper, whiteboards, etc.
+使用するツールはいくつかあり、レトロスペクティブが単一の会議室で行われるのか、ハイブリッド/完全リモートなのかによって部分的に導かれます。単一の部屋にいる場合は、ペン、マーカー、紙、ホワイトボードなどの物理的なツールを簡単に使用できます。
 
-However, if you have at least one person remote, you need to shift to digital tools so that the remote person or persons can participate without barriers. This will mostly be digital replacements for brainstorming or whiteboarding—e.g. Google Jamboards if you have the Google Suite, or Stormboard, Trello, and anything similar. It is best to use a tool that is either already in use at your company or that is a component of a product suite that is already owned to help ensure that everyone has access, even outside of your team. After the meeting you will need to choose a common tool to store your notes for future reference.
+しかし、少なくとも1人がリモートの場合は、リモートの人が障壁なく参加できるようにデジタルツールに移行する必要があります。これは主に、ブレインストーミングやホワイトボーディングのためのデジタル代替品になります—例えば、Google Suiteを持っている場合はGoogle Jamboards、または、Stormboard、Trello、および類似のものです。チーム外でも、誰もがアクセスできるようにするために、すでに会社で使用されているツールか、すでに所有している製品スイートのコンポーネントであるツールを使用するのが最善です。ミーティング後、将来の参照のためにノートを保存する共通のツールを選ぶ必要があります。
 
-Rules of engagement are essential for helping the meeting stay on track. Simply put: Giving feedback is hard and giving constructive criticism is harder than positive feedback, so it is essential to have some ground rules that will help people open up, as well as keep the discussion moving if a topic on the list starts to warrant more discussion than there is time for. It also helps to know how and when to provide your own feedback if you're waiting for someone else to finish theirs—especially if you're remote, where you may not see each other either due to cameras not being on or due to the number of tiles to keep track of / someone not being the active speaker. Beyond that, the rules of engagement for the retrospective can include an upper bound to how much time will be spent per topic and how to override that time limit. If you need to override, make sure to include what other topic(s) will have less discussion time to prevent lengthening the overall meeting. To help you get started thinking about this and other concerns for streamlining the meeting, [here's a blank template](https://docs.google.com/presentation/d/1N4mAtI9Yaw1ZX0AkkyStJ41HwDgj__Kg3tQQgMHo1SA/edit#slide=id.g7c38cb8f37_0_2260) based on the PagerDuty Community Team's rules of engagement.
+エンゲージメントのルールは、ミーティングを軌道に乗せるのに不可欠です。簡単に言えば：フィードバックを与えることは難しく、建設的な批判を与えることはポジティブなフィードバックよりも難しいので、人々が開放的になるのを助け、リストのトピックが時間以上の議論を必要とし始めた場合に議論を進め続けるための基本ルールを持つことが不可欠です。また、特にリモートの場合、カメラがオンになっていないか、追跡するタイルの数が多すぎる/誰かがアクティブなスピーカーでない場合に、互いを見ることができない場合に、他の人が自分のフィードバックを終えるのを待っている場合に、自分のフィードバックをいつどのように提供するかを知るのにも役立ちます。それ以上に、レトロスペクティブのエンゲージメントルールには、トピックごとに費やされる時間の上限と、その時間制限をオーバーライドする方法を含めることができます。オーバーライドする必要がある場合は、全体のミーティングを長くしないように、他のトピックの議論時間を短くすることを必ず含めてください。このことや、ミーティングを効率化するための他の懸念事項について考え始めるのに役立つように、PagerDutyコミュニティチームのエンゲージメントルールに基づいた[空白のテンプレート](https://docs.google.com/presentation/d/1N4mAtI9Yaw1ZX0AkkyStJ41HwDgj__Kg3tQQgMHo1SA/edit#slide=id.g7c38cb8f37_0_2260)があります。
 
-Lastly, before the meeting, indicate who will facilitate and who will take notes. Ideally, these roles will be spread across the team. Even if some members of your team are better at one task or the other, it's important to give everyone a chance to learn and grow as part of the retrospective process. If volunteering (or voluntelling) doesn't work or leads to imbalance, try to rotate by forename or surname. What these two roles entail should be rolled into the rules of engagement at least for how they apply to the retrospective in particular.
+最後に、ミーティングの前に、誰がファシリテートし、誰がノートを取るかを示します。理想的には、これらの役割はチーム全体に分散されるべきです。チームのメンバーの中には、一方のタスクや他のタスクが得意な人がいるかもしれませんが、レトロスペクティブのプロセスの一部として全員に学び、成長する機会を与えることが重要です。ボランティア（または自発的な告知）がうまくいかないか、不均衡につながる場合は、名前や姓によってローテーションしてみてください。これら2つの役割が何を伴うかは、特にレトロスペクティブにどのように適用されるかについて、少なくともエンゲージメントルールに組み込まれるべきです。
 
-## The Meeting
+## ミーティング
 
-At long last, the meeting itself! To recap the [purpose of the meeting](https://retrospectives.pagerduty.com/during/), you and your team should answer the following questions:
+ついに、ミーティング自体です！[ミーティングの目的](https://retrospectives.pagerduty.com/during/)を要約すると、あなたとあなたのチームは以下の質問に答えるべきです：
 
-1. What went well
-1. What didn't go well
-1. What did you learn
-1. What questions you still have
+1. 何がうまくいったか
+1. 何がうまくいかなかったか
+1. 何を学んだか
+1. まだ持っている質問は何か
 
-Note that this is different from postmortems, but only slightly, as the scope is broader. Assuming an hour-long meeting (adjust if for more or less time), your agenda should have:
+これはポストモーテムとは異なりますが、スコープがより広いため、わずかに異なるだけです。1時間のミーティングを想定すると（より多くまたは少ない時間に調整してください）、あなたのアジェンダは以下のようになるべきです：
 
-- A (brief!) icebreaker: ~5 min
-- Brainstorming time: ~10 min
-- Triage: ~5 min
-- Discussion: ~25 min
-- Moving forward / next steps: ~10 min
-- Feedback / appreciations: ~5 min
+- （簡単な！）アイスブレーカー：約5分
+- ブレインストーミング時間：約10分
+- トリアージ：約5分
+- 議論：約25分
+- 前進/次のステップ：約10分
+- フィードバック/感謝：約5分
 
-The icebreaker above isn't meant to be like what we associate with the types of icebreakers we get to know each other better, usually via onboarding and so forth. The purpose is mainly to get people talking or moving before getting to the brainstorm and feedback phases so that they're already in that state of mind. It could be a round of [Among Us](https://en.wikipedia.org/wiki/Among_Us) or the [Keep Talking Game](https://keeptalkinggame.com/)—anything low stress that involves a lot of conversation. (Due to game length, if you choose one of these games make sure to have a timer as you likely won't finish in ~5 minutes.)
+上記のアイスブレーカーは、通常はオンボーディングなどを通じて、互いをよりよく知るためのアイスブレーカーのタイプと関連付けられるようなものではありません。主な目的は、ブレインストーミングとフィードバックのフェーズに入る前に、人々が話したり動いたりするようにして、すでにその心の状態になるようにすることです。[Among Us](https://en.wikipedia.org/wiki/Among_Us)や[Keep Talking Game](https://keeptalkinggame.com/)のラウンドなど、多くの会話を含む低ストレスのものであれば何でも構いません。（ゲームの長さのため、これらのゲームのいずれかを選択する場合は、約5分で終わらない可能性が高いため、タイマーを用意してください。）
 
-For brainstorming: This is where you'll use whiteboards, sticky notes, etc., to start writing down top-level ideas and putting them in the correct areas. For example, if you're using Trello, you could have a column for each of the four questions, with people popping their idea cards in the correct column. People should only pay loose attention to each other's ideas— duplicates and ideas that should be merged can be handled in the triage phase.
+ブレインストーミングについて：ここでは、ホワイトボード、付箋などを使用して、トップレベルのアイデアを書き始め、正しい領域に配置します。例えば、Trelloを使用している場合、4つの質問それぞれに列を設け、人々が正しい列にアイデアカードを配置することができます。人々は互いのアイデアにゆるやかな注意を払うべきです—重複やマージすべきアイデアはトリアージフェーズで処理できます。
 
-When you are ready for the triage phase, keep it as simple as possible and err on the side of caution. It may be quickest to resolve any obvious duplicates, and then move on to merging tickets as that may require (light) discussion. It's better to quickly "yay" or "nay" a merge than to spend time discussing it during the triage phase—more merges or deletes may come up during the main discussion. Before proceeding to the discussion phase, you should rank the ideas according to some consistent metric, usually either by guestimating the time needed to discuss as "short," "long," or "in between," or by relative importance and/or urgency.
+トリアージフェーズの準備ができたら、できるだけシンプルに保ち、慎重を期してください。明らかな重複を解決し、次に（軽い）議論が必要かもしれないチケットのマージに進むのが最も速いかもしれません。トリアージフェーズ中にマージについて議論する時間を費やすよりも、迅速に「賛成」または「反対」するほうが良いです—メインの議論中にさらなるマージや削除が出てくるかもしれません。議論フェーズに進む前に、一貫した指標に従ってアイデアをランク付けするべきです。通常は、議論に必要な時間を「短い」、「長い」、または「その間」と推定するか、相対的な重要性や緊急性によってランク付けします。
 
-Now to discuss! When you are going through the idea tickets [remember](https://retrospectives.pagerduty.com/during/) to ask:
+さあ、議論しましょう！アイデアチケットを通過するときは、[覚えておいてください](https://retrospectives.pagerduty.com/during/)：
 
-- How can we better support went well
-- How can we improve what did not go well
-- How can we apply what went well to what did not go well
+- うまくいったことをどのようにより良くサポートできるか
+- うまくいかなかったことをどのように改善できるか
+- うまくいったことをうまくいかなかったことにどのように適用できるか
 
-For that last point, the idea is to try and apply the habits and processes that are successful to areas that are currently unsuccessful, where it makes sense to do so. Try to spend the approximate amount of time you agreed on in the triage phase discussing any topic to minimize any topics that will need to be covered elsewhere, either async via chat, in the next meeting, and so forth. It's important to try to avoid topic overflow because this can cause retrospectives to become quickly overwhelming. That said, please remember to extend yourselves and your teammates grace while they learn, especially when adjusting to new practices. LucidChart has an excellent [blog post](https://www.lucidchart.com/blog/what-is-timeboxing) on how to implement timeboxing to your meetings.
+最後のポイントについては、成功した習慣やプロセスを、現在成功していない領域に、意味がある場合に適用しようとするアイデアです。トリアージフェーズで合意した時間の近似値を費やして、チャットを通じた非同期、次のミーティングなど、他の場所でカバーする必要があるトピックを最小限に抑えるようにしてください。トピックのオーバーフローを避けようとすることが重要です。これはレトロスペクティブがすぐに圧倒的になる可能性があるためです。とはいえ、特に新しいプラクティスに適応するときに、自分自身とチームメイトに学びながら猶予を与えることを忘れないでください。LucidChartには、ミーティングにタイムボックスを実装する方法についての優れた[ブログ投稿](https://www.lucidchart.com/blog/what-is-timeboxing)があります。
 
-At the end of the day, well, meeting—let's hope it's not a day!—you will need a few action items to try and see if positive change results. Make sure that these action items are in your notes post-meeting. If you would like a note template to get started from, we have one [here](https://docs.google.com/document/d/19M93owg0sNV2n0fDg2JlhS9Z33zi1QDaWd7RJUq9o6k/edit#). Note that you should start documenting your jargon early for anyone else that needs read access to your documents. It's easier to have common terms at the top of each, even if you're copying them from each previous document to the next, so that readers don't need to dive through separate documentation to understand your meeting notes. In terms of visibility, we've found it easier to include the **Action Items** _above_ the freeform **Notes**.
+一日の終わりに、まあ、ミーティングの終わりに—一日ではないことを願いましょう！—ポジティブな変化が生じるかどうかを試すためのいくつかのアクションアイテムが必要になります。これらのアクションアイテムがミーティング後のノートに含まれていることを確認してください。開始するためのノートテンプレートが欲しい場合は、[こちら](https://docs.google.com/document/d/19M93owg0sNV2n0fDg2JlhS9Z33zi1QDaWd7RJUq9o6k/edit#)にあります。ドキュメントへの読み取りアクセスが必要な他の人のために、専門用語を早めに文書化し始めるべきことに注意してください。前のドキュメントから次のドキュメントにコピーしている場合でも、各ドキュメントの上部に共通の用語を持つ方が簡単です。そうすれば、読者はミーティングノートを理解するために別のドキュメントを調べる必要がありません。可視性の観点から、自由形式の**ノート**の_上に_**アクションアイテム**を含めるのが簡単だとわかりました。
 
-And that's it! It's important to take time at the end of each meeting for feedback. The meetings will need to be customized with you as you learn and discover what fits your changing needs best. So at the end of each meeting, get feedback from the team. How did they feel about the process? What could be adapted or removed to make it more effective? What could be adapted or removed to help them feel more comfortable sharing their feedback, especially if they were uncomfortable during the meeting?
+以上です！各ミーティングの終わりにフィードバックの時間を取ることが重要です。ミーティングは、あなたが学び、変化するニーズに最も合うものを発見するにつれて、あなたとカスタマイズする必要があります。したがって、各ミーティングの終わりに、チームからフィードバックを得てください。プロセスについてどう感じましたか？より効果的にするために何を適応または削除できますか？特にミーティング中に不快だった場合、フィードバックを共有することをより快適に感じるために何を適応または削除できますか？

@@ -1,102 +1,102 @@
 ![PagerDuty](/assets/images/headers/Retros-Planning.png)
 
-## Who's the Retrospective Audience?
-Before having a retrospective, it's important for you to identify who the retrospective is meant to be tailored to. This section provides guidelines around having a retrospective for a team after a major project is completed or after an event.
+## レトロスペクティブの対象者は誰か？
+レトロスペクティブを行う前に、レトロスペクティブが誰に合わせて調整されるべきかを特定することが重要です。このセクションでは、大きなプロジェクトが完了した後やイベントの後にチームのためにレトロスペクティブを行うことに関するガイドラインを提供します。
 
-### Team Retrospective
-Team retrospectives occur at a regular cadence (e.g. biweekly). While working on a project, regularly cadenced retrospectives give the team an opportunity to inspect what went well and what didn't go so well. From there, teammates work together to create and execute on an improvement plan.
+### チームレトロスペクティブ
+チームレトロスペクティブは定期的なケイデンス（例：隔週）で行われます。プロジェクトに取り組んでいる間、定期的なケイデンスのレトロスペクティブは、チームに何がうまくいったか、何がうまくいかなかったかを検査する機会を与えます。そこから、チームメイトは一緒に改善計画を作成し、実行します。
 
-### Project, Project Milestone, or Event Retrospective
-The team(s) involved in completing a project, project milestone, or running an event (e.g., company conference) may want to have a retrospective to reflect on what went well and what didn't go so well throughout their progress on the project. This retrospective is more holistic in nature and enables the involved team(s) to consider the good, the bad, and everything in between, from a macroscopic view. Thus, it's recommended for the involved team(s) to have regularly cadenced retrospectives and one final retrospective to reflect on the entire deliverable from beginning to end.
+### プロジェクト、プロジェクトマイルストーン、またはイベントのレトロスペクティブ
+プロジェクト、プロジェクトマイルストーンの完了、またはイベント（例：会社の会議）の実行に関わるチームは、プロジェクトの進行全体を通じて何がうまくいったか、何がうまくいかなかったかを振り返るためにレトロスペクティブを行いたいと思うかもしれません。このレトロスペクティブはより全体的な性質を持ち、関与するチームがマクロな視点から良いこと、悪いこと、そしてその間のすべてを考慮することを可能にします。したがって、関与するチームが定期的なケイデンスのレトロスペクティブを行い、最終的なレトロスペクティブを行って最初から最後まで全体の成果物を振り返ることが推奨されます。
 
-## Other Factors to Consider
-### Audience Size
-Sometimes, the facilitator may have to run a retrospective involving larger teams. An example of this is an entire project team consisting of multiple delivery teams. In this scenario, the facilitator may also focus on a longer timeframe than the usual project delivery timelines.
+## 考慮すべきその他の要素
+### 対象者の規模
+時には、ファシリテーターはより大きなチームを含むレトロスペクティブを実施しなければならないことがあります。これの例として、複数のデリバリーチームで構成される全体のプロジェクトチームがあります。このシナリオでは、ファシリテーターは通常のプロジェクトデリバリーのタイムラインよりも長い時間枠に焦点を当てることもあります。
 
-!!! tip "One of the biggest challenges in effectively running a retrospective for a large team is ensuring all voices are heard. Consider breaking the large group into smaller groups to run mini-retrospectives. Later in the retrospective, the facilitator can combine the data and distribute the findings to everyone."
+!!! tip "大きなチームのためにレトロスペクティブを効果的に実施する上での最大の課題の1つは、すべての声が聞かれることを確実にすることです。大きなグループをより小さなグループに分けてミニレトロスペクティブを実施することを検討してください。レトロスペクティブの後半で、ファシリテーターはデータを組み合わせ、結果を全員に配布することができます。"
 
-Before the retrospective, the facilitator should consider letting the team document topics of discussion they would like to explore during the retrospective. This gives the team additional reflection time and may make time for more discussion during the retrospective.
+レトロスペクティブの前に、ファシリテーターはチームがレトロスペクティブ中に探索したい議論のトピックを文書化させることを検討すべきです。これはチームに追加の振り返り時間を与え、レトロスペクティブ中により多くの議論の時間を作ることができます。
 
-Below is a sample template for the [Lean Coffee](https://www.learningapprentice.com/lean-coffee-retrospective/) style of retrospective. The topmost card in each column provides clear instructions to team members, especially if the facilitator decides to send the retrospective board to the team beforehand.
+以下は[リーンコーヒー](https://www.learningapprentice.com/lean-coffee-retrospective/)スタイルのレトロスペクティブのサンプルテンプレートです。各列の一番上のカードは、特にファシリテーターがレトロスペクティブボードを事前にチームに送ることを決めた場合、チームメンバーに明確な指示を提供します。
 
-![Retro Board](/assets/images/retro_board_example.png)
+![レトロボード](/assets/images/retro_board_example.png)
 
-During the retrospective, keep in mind that the larger the group, the more topics there are to discuss. Organize discussion topics by removing duplicates and combining those that are thematically similar.
+レトロスペクティブ中、グループが大きくなればなるほど、議論するトピックが多くなることを念頭に置いてください。重複を削除し、テーマ的に類似しているものを組み合わせることで議論のトピックを整理します。
 
-### Choosing a Retrospective Style
-Some retrospective styles are more appropriate for certain situations than others. The following are some ideas of retrospective styles and general best practices on when they are the most appropriate:
+### レトロスペクティブスタイルの選択
+一部のレトロスペクティブスタイルは、他のスタイルよりも特定の状況に適しています。以下は、レトロスペクティブスタイルのいくつかのアイデアと、それらが最も適切な場合の一般的なベストプラクティスです：
 
-| Retrospective Style Name | When Should I Use This Style? | Description |
+| レトロスペクティブスタイル名 | このスタイルをいつ使うべきか？ | 説明 |
 |---|---|---|
-[Lean Coffee Retrospective](https://www.learningapprentice.com/lean-coffee-retrospective/) | Anytime! | This simple style is useful when the facilitator wants the team to have an open-ended conversation that is entirely owned and directed by the team.
-[Sailboat Retrospective](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | For conducting project retrospectives when the team has more than just 2 weeks' worth of data. | This style helps the team to define a vision of where they want to go, identify risks along the path, and identify what inhibits and aids them to achieve their objectives.
-[Speed Car Abyss Retrospective](http://www.funretrospectives.com/speed-car-abyss/) | For reflecting on the past and looking forward. It's especially useful when used a few weeks before a team's milestone or release. | This style is a mix of a retrospective and futurespective to uncover risks.
+[リーンコーヒーレトロスペクティブ](https://www.learningapprentice.com/lean-coffee-retrospective/) | いつでも！ | このシンプルなスタイルは、ファシリテーターがチームに完全にチームが所有し、指示するオープンエンドの会話を持たせたい場合に役立ちます。
+[セイルボートレトロスペクティブ](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | チームが2週間分以上のデータを持っている場合のプロジェクトレトロスペクティブを実施するため。 | このスタイルは、チームが行きたい場所のビジョンを定義し、道に沿ったリスクを特定し、目標達成を妨げるものと助けるものを特定するのに役立ちます。
+[スピードカーアビスレトロスペクティブ](http://www.funretrospectives.com/speed-car-abyss/) | 過去を振り返り、将来を見据えるため。特にチームのマイルストーンやリリースの数週間前に使用すると特に役立ちます。 | このスタイルは、リスクを明らかにするためのレトロスペクティブとフューチャースペクティブの混合です。
 
-Links to more retro styles and instructions for the facilitator can be found [here](resources.md).
+ファシリテーターのためのより多くのレトロスタイルと指示へのリンクは[こちら](resources.md)で見つけることができます。
 
-### Facilitating Retrospectives Based on Team Member Locations
-Since there are slight nuances between facilitation of a co-located and a distributed team, here are some tips and tricks to help you get through your retrospective as smoothly as possible, no matter where team members are located.
+### チームメンバーの場所に基づいたレトロスペクティブの進行
+共同設置チームと分散チームのファシリテーションの間にはわずかなニュアンスがあるため、チームメンバーがどこにいても、レトロスペクティブをできるだけスムーズに進めるためのヒントとコツをいくつか紹介します。
 
-#### Co-located Teams
-While facilitating a retrospective for a co-located team:
+#### 共同設置チーム
+共同設置チームのレトロスペクティブを進行する際：
 
-- **Be mindful of your position in the room. Your physical presence can help drive the discussion one way or another.** For example, if you want to get the team's attention, you can stand up. If you don't want to be involved in a discussion topic, you can pull yourself away from the rest of the team to take an observational stance.
-- **Find a suitable space—location, location, location!**
-- Make sure everyone can fit in the room comfortably.
-- Pick a room that isn't too hot or cold.
-- Consider changing the space periodically to ensure team members don't start attaching their emotions to a room or priming themselves.
+- **部屋での位置に注意してください。あなたの物理的な存在は、議論を一方向または別の方向に導くのに役立ちます。** 例えば、チームの注目を集めたい場合は、立ち上がることができます。議論のトピックに関わりたくない場合は、観察的な姿勢を取るために残りのチームから自分を引き離すことができます。
+- **適切な空間を見つけてください—場所、場所、場所！**
+- 全員が部屋に快適に収まることを確認してください。
+- 暑すぎたり寒すぎたりしない部屋を選んでください。
+- チームメンバーが部屋に感情を結びつけたり、自分自身を準備したりし始めないように、定期的に空間を変更することを検討してください。
 
-#### Distributed Teams
-While facilitating a retrospective for a distributed team:
+#### 分散チーム
+分散チームのレトロスペクティブを進行する際：
 
-- **Ensure any tools for gathering retrospective insights (e.g. Trello board) are visible to the whole team.**
-- **Ensure the team is aware of screen sharing, camera, and microphone etiquette.**
-- Facilitators should share their screen with the team.
-- Facilitators should share their camera so participants can see them
-- Participants don't always have to be on camera, but when they're speaking they should try to be.
-- Participants should mute unless they're about to speak.
+- **レトロスペクティブの洞察を集めるためのツール（例：Trelloボード）がチーム全体に見えることを確認してください。**
+- **チームが画面共有、カメラ、マイクのエチケットを認識していることを確認してください。**
+- ファシリテーターはチームと画面を共有すべきです。
+- ファシリテーターは参加者が彼らを見ることができるようにカメラを共有すべきです。
+- 参加者は常にカメラをオンにする必要はありませんが、話している時にはオンにするよう努めるべきです。
+- 参加者は話す直前でない限りミュートすべきです。
 
-#### Any Teams
-While facilitating a retrospective for any team:
+#### すべてのチーム
+どのようなチームのレトロスペクティブを進行する際にも：
 
-- **Use a timer to timebox.** This makes everyone aware of the time limit. Consequently, you won't have to interrupt or cut anyone off.
-- For a **co-located team**, you may consider using a physical timer that is visible to all team members in the room.
-- For a **distributed team**, you may consider using a browser extension that is visible to the full team ( via screen-sharing).
-- **Begin the retrospective by going through an icebreaker activity.** This reduces team tension and gets people in a more talkative mood. Examples of icebreaker activities: Two truths and a lie, first job, fun fact, a country you'd like to visit, etc.
-- Set ground rules at the beginning of the retrospective, such as:
-- Don't interrupt people
-- Decide on and say a "safe word" when the discussion gets off topic
-- Everyone should speak up but no one should dominate the discussion.<sup>1</sup>
+- **タイムボックスにタイマーを使用してください。** これにより、全員が時間制限を認識します。結果として、誰かを中断したり、切ったりする必要がなくなります。
+- **共同設置チーム**の場合、部屋内のすべてのチームメンバーに見えるような物理的なタイマーを使用することを検討するかもしれません。
+- **分散チーム**の場合、チーム全体に見えるブラウザ拡張機能（画面共有を通じて）を使用することを検討するかもしれません。
+- **アイスブレーカー活動を通じてレトロスペクティブを始めてください。** これはチームの緊張を和らげ、人々をより話しやすい気分にします。アイスブレーカー活動の例：2つの真実と1つの嘘、最初の仕事、面白い事実、訪れたい国など。
+- レトロスペクティブの最初に基本ルールを設定してください、例えば：
+- 人を中断しない
+- 議論が脱線した時に「セーフワード」を決めて言う
+- 全員が発言すべきだが、誰も議論を支配すべきではない<sup>1</sup>
 
-## Setting the Retrospective Agenda
-The goal of establishing an agenda for the retrospective is to ensure the entire team is aligned on what they want to get out of the retrospective and what activities they will do to meet the intended outcome.
+## レトロスペクティブのアジェンダの設定
+レトロスペクティブのアジェンダを確立する目的は、チーム全体がレトロスペクティブから得たいものと、意図した結果を達成するために行う活動について一致していることを確実にすることです。
 
-Each activity is assigned a timebox. A timebox is a fixed, maximum unit of time for an activity. The goal of timeboxing is to define and limit the amount of time dedicated to an activity.
+各活動にはタイムボックスが割り当てられます。タイムボックスは、活動のための固定された最大時間単位です。タイムボックスの目的は、活動に専念する時間の量を定義し、制限することです。
 
-The benefits of timeboxing include:
+タイムボックスの利点には以下が含まれます：
 
-- Forcing prioritization
-- Avoiding unnecessary perfectionism
-- Motivating closure on discussion topics
+- 優先順位付けの強制
+- 不必要な完璧主義の回避
+- 議論のトピックに対する終結の動機付け
 
-### Retrospective Agenda: Best Practices
-For a small-to-average sized team (between 5-9 people), the retrospective has a total timebox of 60 minutes.
+### レトロスペクティブのアジェンダ：ベストプラクティス
+小規模から平均的なサイズのチーム（5〜9人の間）の場合、レトロスペクティブの総タイムボックスは60分です。
 
-For a larger team, the retrospective has a total timebox of 90 minutes.
+より大きなチームの場合、レトロスペクティブの総タイムボックスは90分です。
 
-In any case, if the team has more topics to discuss, the retrospective can be extended.
+いずれの場合も、チームに議論するトピックがさらにある場合、レトロスペクティブを延長することができます。
 
-These are suggested timeboxes for activities within a 60-minute retrospective:
+60分のレトロスペクティブ内の活動のための提案されるタイムボックスは以下の通りです：
 
-- [10 minutes] Reviewing the team's metrics
-- [5-10 minutes] Idea generation for discussion topics
-- [2 minutes] Team votes on which topics to discuss
-- 5 minutes per discussion topic, with an additional 3 minutes per topic at the team's discretion
-- [5 minutes] Teammates give each other appreciations<sup>2</sup> for a job well done
+- [10分] チームのメトリクスのレビュー
+- [5-10分] 議論のトピックのためのアイデア生成
+- [2分] どのトピックを議論するかについてのチーム投票
+- 議論のトピックごとに5分、チームの裁量でトピックごとに追加の3分
+- [5分] チームメイトがよくやった仕事に対して互いに感謝<sup>2</sup>を与える
 
-If at any point, the team completes an activity before the end of its allotted timebox, the facilitator can step in and propel the team onto the next activity or discussion topic.
+いつでも、チームが割り当てられたタイムボックスの終了前に活動を完了した場合、ファシリテーターは介入して、チームを次の活動または議論のトピックに進めることができます。
 
 ---
-1. Some teams have found success with having the role of "accountabilibuddy" on the team, whose job is to remind the team of a team agreement, especially when the team is at risk of breaking it.
+1. 一部のチームは、特にチームが合意を破るリスクがある場合に、チームに合意を思い出させる仕事を持つ「アカウンタビリバディ」の役割を持つことで成功を収めています。
 
-2. Appreciations are thank-you messages teammates write to each other to acknowledge the team member(s) who helped their colleagues get things done or to recognize team members who went above and beyond in their work. For example, appreciations can be read aloud by their writers before the facilitator concludes the retrospective. This boosts team morale, especially after an emotionally charged retrospective discussion, and reminds the team of all the good they've accomplished.
+2. 感謝は、同僚が物事を成し遂げるのを助けたチームメンバーを認めたり、仕事で期待以上のことをしたチームメンバーを認識したりするために、チームメイトが互いに書く感謝のメッセージです。例えば、感謝はファシリテーターがレトロスペクティブを締めくくる前に、その作者によって声に出して読まれることがあります。これは、特に感情的に充実したレトロスペクティブの議論の後にチームの士気を高め、チームが達成したすべての良いことを思い出させます。

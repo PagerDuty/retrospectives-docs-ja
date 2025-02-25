@@ -1,55 +1,54 @@
 ![PagerDuty](/assets/images/headers/Retros-Title.png)
 
-Having retrospectives on a regular basis is one way for your team to learn what they're doing right, where they can improve, how to avoid making the same mistakes again and again, and, most importantly, how to critically think about how they're working together. Well-designed retrospectives allow teams to iteratively improve their end product and collaboration process.
+定期的にレトロスペクティブ（振り返り）を行うことは、チームが何をうまくやっているか、どこを改善できるか、同じ間違いを繰り返さないようにする方法、そして最も重要なことに、チームがどのように協力しているかについて批判的に考える方法を学ぶための一つの方法です。適切に設計されたレトロスペクティブにより、チームは最終成果物とコラボレーションプロセスを反復的に改善することができます。
 
-The concept of having retrospectives is well known in the technology industry, but it can be difficult for newer individuals, teams, and organizations to adopt the mindset required to execute effective for effective retrospectives. This guide will teach you how to build a culture of continuous improvement, the most important components to include in your retrospectives, and how to conduct effective retrospectives.
+レトロスペクティブの概念はテクノロジー業界ではよく知られていますが、効果的なレトロスペクティブを実行するために必要なマインドセットを新しい個人、チーム、組織が採用するのは難しい場合があります。このガイドでは、継続的改善の文化を構築する方法、レトロスペクティブに含めるべき最も重要な要素、そして効果的なレトロスペクティブを実施する方法について説明します。
 
-## Who Is This For?
-This resource is for team members working in any industry who want to iteratively learn from their team's working processes and behaviors, and for leaders who want to cultivate a culture of continuous improvement within their organization.
+## 対象者
+このリソースは、チームの作業プロセスや行動から反復的に学びたいと考えるあらゆる業界のチームメンバーや、組織内で継続的改善の文化を育てたいと考えるリーダーを対象としています。
 
-## What Is Covered?
+## 内容
 
-### What is a retrospective?
-The who, what, when, and why of [retrospectives](getting_started.md). This section also includes a look at how retrospectives [differ from postmortems](getting_started.md#the-differences-between-retrospectives-and-postmortems).
+### レトロスペクティブとは？
+[レトロスペクティブ](getting_started.md)の誰が、何を、いつ、なぜについて。このセクションでは、レトロスペクティブが[ポストモーテムとどのように異なるか](getting_started.md#the-differences-between-retrospectives-and-postmortems)についても説明しています。
 
-### Planning the retrospective
-A successful retrospective requires some degree of planning by the facilitator. This section outlines factors the facilitator should take into consideration at this stage.
+### レトロスペクティブの計画
+成功するレトロスペクティブには、ファシリテーターによるある程度の計画が必要です。このセクションでは、ファシリテーターがこの段階で考慮すべき要素について概説しています。
 
-- [Who's the Retrospective
-  Audience?](planning.md#whos-the-retrospective-audience)
-- [Audience Size](planning.md#audience-size)
-- [Choosing a Retrospective Style](planning.md#choosing-a-retrospective-style)
-- [Facilitating Retrospectives Based on Team Member Locations](planning.md#facilitating-retrospectives-based-on-team-member-locations)
+- [レトロスペクティブの対象者は誰か？](planning.md#whos-the-retrospective-audience)
+- [対象者の規模](planning.md#audience-size)
+- [レトロスペクティブのスタイルの選択](planning.md#choosing-a-retrospective-style)
+- [チームメンバーの場所に基づいたレトロスペクティブの進行](planning.md#facilitating-retrospectives-based-on-team-member-locations)
 
-### During the Retrospective
-You'll learn how the facilitator and participants are involved at different phases of the retrospective.
+### レトロスペクティブ中
+レトロスペクティブの異なるフェーズでファシリテーターと参加者がどのように関わるかを学びます。
 
-- [Setting the Stage](during.md#setting-the-stage)
-- [Gathering Data](during.md#gathering-data)
-- [Generating Insights](during.md#generating-insights)
-- [Deciding on Action](during.md#deciding-on-action)
-- [Closing the Retrospective](during.md#closing-the-retrospective)
-- [Timeboxing the Retrospective](during.md#timeboxing-the-retrospective)
+- [場の設定](during.md#setting-the-stage)
+- [データの収集](during.md#gathering-data)
+- [洞察の生成](during.md#generating-insights)
+- [アクションの決定](during.md#deciding-on-action)
+- [レトロスペクティブの終了](during.md#closing-the-retrospective)
+- [レトロスペクティブのタイムボックス化](during.md#timeboxing-the-retrospective)
 
-### After the Retrospective
-What to expect after the retrospective is complete.
+### レトロスペクティブ後
+レトロスペクティブ完了後に期待されることについて。
 
-- [Gathering Feedback From Participants](after.md#gathering-feedback-from-participants)
-- [Following Up On Action Items](after.md#following-up-on-action-items)
+- [参加者からのフィードバックの収集](after.md#gathering-feedback-from-participants)
+- [アクションアイテムのフォローアップ](after.md#following-up-on-action-items)
 
-### Training for the Facilitator
-Information for retrospective facilitators and facilitators-in-training.
+### ファシリテーターのためのトレーニング
+レトロスペクティブのファシリテーターおよびトレーニング中のファシリテーターのための情報。
 
-- [Prerequisites](facilitator_training.md#prerequisites)
-- [Responsibilities](facilitator_training.md#responsibilities)
-- [Training Process](facilitator_training.md#training-process)
-- [Graduation](facilitator_training.md#graduation)
-- [Pocket Reference Guide](facilitator_training.md#pocket-reference-guide)
+- [前提条件](facilitator_training.md#prerequisites)
+- [責任](facilitator_training.md#responsibilities)
+- [トレーニングプロセス](facilitator_training.md#training-process)
+- [卒業](facilitator_training.md#graduation)
+- [ポケットリファレンスガイド](facilitator_training.md#pocket-reference-guide)
 
-### Additional Resources
-Links to other helpful retrospective facilitation [tips and tools](resources.md).
+### 追加リソース
+レトロスペクティブ進行に役立つその他の[ヒントとツール](resources.md)へのリンク。
 
-## License
-This documentation is provided under the Apache License 2.0. In plain English that means you can use and modify this documentation and use it both commercially and for private use. However, you must include any original copyright notices, and the original LICENSE file.
+## ライセンス
+このドキュメントはApache License 2.0の下で提供されています。簡単に言えば、このドキュメントを商用および私用の両方で使用および修正することができます。ただし、元の著作権表示と元のLICENSEファイルを含める必要があります。
 
-Whether you are a PagerDuty customer or not, we want you to have the ability to use this documentation internally at your own company. You can view the source code for all of this documentation on our GitHub account, feel free to fork the repository and use it as a base for your own internal documentation.
+PagerDutyのお客様であるかどうかにかかわらず、このドキュメントを自社内で使用する能力を持っていただきたいと考えています。このドキュメントのすべてのソースコードはGitHubアカウントで閲覧でき、リポジトリをフォークして独自の内部ドキュメントのベースとして使用することができます。

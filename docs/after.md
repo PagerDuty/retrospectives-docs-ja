@@ -1,17 +1,17 @@
 ![PagerDuty](/assets/images/headers/Retros-After.png)
 
-## Gathering Feedback From Participants
-The facilitator may choose to spend the last couple minutes of the retrospective gathering real-time feedback from the team. Teams call this a "retro on the retro."
+## 参加者からのフィードバックの収集
+ファシリテーターは、レトロスペクティブの最後の数分間を使って、チームからリアルタイムのフィードバックを収集することを選択できます。チームはこれを「レトロに対するレトロ」と呼びます。
 
-Questions intended for the facilitator to solicit feedback from team members on the retrospective include:
+ファシリテーターがレトロスペクティブについてチームメンバーからフィードバックを求めるための質問には以下が含まれます：
 
-- "Did the retrospective style work well?" or "Do you prefer retrospective style A or B?"
-- "Was there sufficient structure to the retrospective?"
-- "Did you feel included in the discussion?"
+- 「レトロスペクティブのスタイルはうまく機能しましたか？」または「レトロスペクティブのスタイルAとBのどちらが好みですか？」
+- 「レトロスペクティブに十分な構造がありましたか？」
+- 「議論に含まれていると感じましたか？」
 
-## Following Up On Action Items
-It's important to follow up on action items with the team to see what progress was made towards fixing the issues they identified.
+## アクションアイテムのフォローアップ
+チームが特定した問題を解決するためにどのような進捗があったかを確認するために、アクションアイテムについてチームとフォローアップすることが重要です。
 
-The facilitator can follow up on action items at the team's next scheduled retrospective. However, if there is a significant time gap until the next retrospective (e.g., a month or more), the team lead can follow up on the action items at the team's next full team meeting.
+ファシリテーターは、チームの次の予定されたレトロスペクティブでアクションアイテムをフォローアップすることができます。ただし、次のレトロスペクティブまでに大きな時間の隔たりがある場合（例：1ヶ月以上）、チームリーダーはチームの次の全体ミーティングでアクションアイテムをフォローアップすることができます。
 
-**If no progress was made on a previously determined action item, it’s important for the team to identify why progress didn’t happen without assigning blame.** From there, the team can make a more conscious effort to enact the action item going forward, redefine, or clarify the action item, or even scrap it completely if the issue has disappeared on its own. Read up on moving your organization towards a blameless culture [here](https://postmortems.pagerduty.com/culture/blameless/#how-to-avoid-blame).
+**以前に決定されたアクションアイテムに進捗がなかった場合、チームが非難を割り当てることなく進捗がなかった理由を特定することが重要です。** そこから、チームは今後アクションアイテムを実行するためのより意識的な努力をしたり、アクションアイテムを再定義したり、明確にしたり、問題が自然に消えた場合は完全に廃棄したりすることができます。組織を非難のない文化に移行することについては、[こちら](https://postmortems.pagerduty.com/culture/blameless/#how-to-avoid-blame)で詳しく読むことができます。

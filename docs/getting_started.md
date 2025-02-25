@@ -1,66 +1,66 @@
 ![PagerDuty](/assets/images/headers/Retros-GettingStarted.png)
 
-## What's a retrospective?
-A retrospective is a structured meeting that typically runs for 60 to 120 minutes on a biweekly cadence or after completing a large-scale project. It allows teams the opportunity to examine themselves and create a plan to improve how they work together moving forward.
+## レトロスペクティブとは？
+レトロスペクティブは、通常2週間ごとのケイデンスで、または大規模プロジェクトの完了後に60〜120分間行われる構造化されたミーティングです。チームが自分たち自身を検証し、今後の協働方法を改善するための計画を作成する機会を提供します。
 
-A retrospective is meant to create a safe space for team members to share their honest feedback about what’s going well for the team and what could be improved. Retrospectives generate discussions around how to improve team collaboration, with actionable items that are documented and can be followed up on in the future (e.g., in the next retrospective).
+レトロスペクティブは、チームメンバーがチームにとって何がうまくいっているか、何を改善できるかについて正直なフィードバックを共有するための安全な場を作ることを目的としています。レトロスペクティブでは、チームのコラボレーションを改善する方法についての議論が生まれ、文書化され、将来（例えば、次のレトロスペクティブで）フォローアップできるアクションアイテムが生成されます。
 
-## Why have retrospectives?
+## なぜレトロスペクティブを行うのか？
 
-!!! tip "Retrospectives help a team establish a practice of continuous improvement of their interactions and processes. This is achieved through reflecting on “how” a team delivers versus “what” the team delivers.”
+!!! tip "レトロスペクティブは、チームが相互作用とプロセスの継続的改善の実践を確立するのに役立ちます。これは、チームが「何を」提供するかではなく、「どのように」提供するかを振り返ることで達成されます。"
 
-**Retrospectives create transparency and trust.** They compel a team to discuss both problems and success stories. Being honest and transparent about the good, the bad, the ugly, and everything in between builds trust among team members.
+**レトロスペクティブは透明性と信頼を生み出します。** チームに問題と成功事例の両方について議論することを促します。良いこと、悪いこと、醜いこと、そしてその間のすべてについて正直で透明であることは、チームメンバー間の信頼を構築します。
 
-**Retrospectives enable the team to discover risks early.** They allow the team to uncover blockers as early as possible. If team members feel comfortable, they will raise concerns sooner rather than later, giving the team more time to react.
+**レトロスペクティブはチームがリスクを早期に発見することを可能にします。** チームができるだけ早くブロッカーを明らかにすることができます。チームメンバーが快適に感じれば、彼らは後になってからではなく、より早く懸念を提起し、チームに反応する時間をより多く与えます。
 
-**Retrospectives empower team members.** Team members define and own their actionable items and changes. Since team members are empowered to act on collective decisions, there will be little resistance to follow through on these changes. Thus, this gives power back to the team.
+**レトロスペクティブはチームメンバーに権限を与えます。** チームメンバーは自分たちのアクションアイテムと変更を定義し、所有します。チームメンバーが集団的な決定に基づいて行動する権限を与えられているため、これらの変更を実行することへの抵抗はほとんどありません。したがって、これはチームに力を戻します。
 
-## Who's involved?
+## 誰が関わるのか？
 
-![Who's Involved](/assets/images/whos_involved_in_a_retro.png)
+![誰が関わるのか](/assets/images/whos_involved_in_a_retro.png)
 
-### Role of the Facilitator
-The facilitator’s role in the retrospective is different from the other participants.
+### ファシリテーターの役割
+レトロスペクティブにおけるファシリテーターの役割は、他の参加者とは異なります。
 
-The facilitator does not voice their own ideas in the meeting. They encourage the group to speak up and keep the discussion on track. This requires enough cognitive load to make it difficult to perform this role well and attempt to contribute personal thoughts to the discussion. For a successful retrospective, it is helpful to have a designated facilitator that is not also trying to participate in the discussion.
+ファシリテーターはミーティングで自分のアイデアを表明しません。彼らはグループに発言を促し、議論を軌道に乗せます。これには、この役割をうまく果たし、議論に個人的な考えを貢献しようとすることを難しくするのに十分な認知的負荷が必要です。成功するレトロスペクティブのためには、議論に参加しようとしていない指定されたファシリテーターがいることが役立ちます。
 
-The role of the facilitator is to:
+ファシリテーターの役割は以下の通りです：
 
-- Serve the team objectively.
-- Encourage people to speak up and ensure everyone is heard.
-- Clarify insights and challenge the team with thought-provoking questions.
-- Help the team see different perspectives and different options.
-- Keep everyone on time and on track. Cut off tangents and stop people from dominating the entire meeting.
-- Be the champion for continuous improvement.
-- **Try to speak as little as possible.** The facilitator should be a shadow that guides discussions, not a presenter who takes over the meeting. If the facilitator dominates the retrospective, this runs the risk of the team not paying attention and falling silent.
+- チームに客観的に奉仕する。
+- 人々に発言を促し、全員の声が聞かれるようにする。
+- 洞察を明確にし、思考を促す質問でチームに挑戦する。
+- チームが異なる視点と異なる選択肢を見るのを助ける。
+- 全員が時間通りに、軌道に乗っているようにする。脱線を切り、人々がミーティング全体を支配することを止める。
+- 継続的改善のチャンピオンになる。
+- **できるだけ少なく話すようにする。** ファシリテーターは、ミーティングを引き継ぐプレゼンターではなく、議論を導く影であるべきです。ファシリテーターがレトロスペクティブを支配すると、チームが注意を払わず、沈黙してしまうリスクがあります。
 
-The facilitator does NOT:
+ファシリテーターがしないこと：
 
-- Make decisions.
-- Take sides. If the facilitator takes sides, team members might feel attacked and might stop contributing to the meeting. Do not comment on what people say, even if you are trying to give positive feedback. You can find [additional facilitation tips in our Postmortems Ops Guide](https://postmortems.pagerduty.com/meeting/#facilitation-tips).
+- 決定を下す。
+- 側に立つ。ファシリテーターが側に立つと、チームメンバーは攻撃されたと感じ、ミーティングへの貢献を止めるかもしれません。ポジティブなフィードバックを与えようとしている場合でも、人々が言うことにコメントしないでください。[私たちのポストモーテムOpsガイドに追加のファシリテーションのヒント](https://postmortems.pagerduty.com/meeting/#facilitation-tips)があります。
 
-### Role of the Participants
-The role of participants is to:
+### 参加者の役割
+参加者の役割は以下の通りです：
 
-- Speak up and voice their ideas. They should be involved in the discussion.
-- Come up with action items.
-- Be receptive to ideas different than their own.
-- Work with the facilitator to generate insights about the team, come up with alternative options, and challenge their own or their team’s underlying assumptions.
+- 発言し、自分のアイデアを表明する。彼らは議論に関わるべきです。
+- アクションアイテムを考え出す。
+- 自分のものとは異なるアイデアに対して受容的である。
+- ファシリテーターと協力して、チームに関する洞察を生み出し、代替オプションを考え出し、自分自身またはチームの根底にある仮定に挑戦する。
 
-Participants do NOT:
+参加者がしないこと：
 
-- Dominate the meeting.
-- Convince their colleagues to change their perspectives.
+- ミーティングを支配する。
+- 同僚に視点を変えるよう説得する。
 
-## The Differences Between Retrospectives and Postmortems
-You may have already read PagerDuty’s [Postmortems Ops Guide](https://postmortems.pagerduty.com/) and may be wondering how a retrospective is different from a postmortem.
+## レトロスペクティブとポストモーテムの違い
+あなたはすでにPagerDutyの[ポストモーテムOpsガイド](https://postmortems.pagerduty.com/)を読んでいるかもしれず、レトロスペクティブがポストモーテムとどのように異なるのか疑問に思っているかもしれません。
 
-Postmortems are also structured meetings that provide teams with an opportunity to reflect, but they differ in several important ways. The biggest difference is meeting purpose: postmortems are for reflecting on the response to an incident, while retrospectives allow teams to reflect on their progress, pace, and delivery on a regular cadence. Key differences are summarized in the following table:
+ポストモーテムもまた、チームに振り返りの機会を提供する構造化されたミーティングですが、いくつかの重要な点で異なります。最大の違いはミーティングの目的です：ポストモーテムはインシデントへの対応を振り返るためのものであり、一方レトロスペクティブはチームが定期的なケイデンスで進捗、ペース、デリバリーを振り返ることを可能にします。主な違いは以下の表にまとめられています：
 
-| | Postmortem | Retrospective |
+| | ポストモーテム | レトロスペクティブ |
 |---|---|---|
-| Purpose | To conduct analysis on the incident, including: identifying superficial and contributing factors, considering technology and process, and obtaining buy-in for action items. | To facilitate and encourage continuous improvement at regular cadences. To review a team’s progress, pace, and delivery. To think of ways to improve team collaboration. To have a safe space where the team can discuss anything that affected their work over the last cadence. To get a “health check” or “temperature reading” of how the team felt over the last cadence. |
-| When it occurs | After an incident | Typically at a regular cadence (e.g. every 2 weeks) |
-| Style | Discussion between the teams directly involved with the incident. A sample incident postmortem agenda can be found [here](https://postmortems.pagerduty.com/meeting/#agenda).| Typically, an informal discussion between team members. Can be facilitated through a wide variety of styles. |
-| Discussion Topics | Review a summary of the postmortem report, which details incident contributing factors, timeline, resolution action taken, customer impact, etc. | Reflections on areas of strength and areas for improvement, the team’s sentiments over the last cadence, and surface areas of concern or questions. |
-| Who participates | The Incident Commander, Incident Responders, Subject Matter Experts involved, Service Owners, Engineering Manager(s) of impacted systems, etc | The team. Any other necessary roles. Minimize the number of unnecessary attendees. Avoid having management present. |
+| 目的 | インシデントに関する分析を行うこと。これには以下が含まれます：表面的および寄与する要因の特定、技術とプロセスの検討、アクションアイテムへの賛同の獲得。 | 定期的なケイデンスで継続的改善を促進し奨励すること。チームの進捗、ペース、デリバリーをレビューすること。チームのコラボレーションを改善する方法を考えること。チームが最後のケイデンスで彼らの仕事に影響を与えたことについて何でも議論できる安全な場所を持つこと。チームが最後のケイデンスでどのように感じたかの「健康チェック」または「温度測定」を得ること。 |
+| 発生時期 | インシデント後 | 通常、定期的なケイデンス（例：2週間ごと）で |
+| スタイル | インシデントに直接関わったチーム間の議論。サンプルのインシデントポストモーテムのアジェンダは[こちら](https://postmortems.pagerduty.com/meeting/#agenda)で見つけることができます。| 通常、チームメンバー間の非公式な議論。様々なスタイルを通じて進行することができます。 |
+| 議論のトピック | ポストモーテムレポートの要約をレビューします。これには、インシデントの寄与要因、タイムライン、解決のために取られたアクション、顧客への影響などが詳細に記載されています。 | 強みの領域と改善の領域、最後のケイデンスでのチームの感情、懸念や質問の領域についての振り返り。 |
+| 参加者 | インシデントコマンダー、インシデント対応者、関与したSME（対象分野の専門家）、サービスオーナー、影響を受けたシステムのエンジニアリングマネージャーなど | チーム。その他の必要な役割。不必要な参加者の数を最小限に抑える。管理職の出席を避ける。 |
