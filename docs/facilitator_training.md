@@ -1,80 +1,80 @@
 ![PagerDuty](/assets/images/headers/Retros-Training.png)
 
-## Prerequisites
-Good facilitators tend to have a high level of emotional intelligence. This means they can easily read others' non-verbal cues to understand how individuals feel. They use this sense to cultivate an environment where everyone is comfortable speaking. Larger organizations may even have a guild of confident retrospective facilitators who coach individuals interested in learning how to facilitate retrospectives. These individuals include, but are not limited to, agile coaches, engineers, and project managers.
+## 前提条件
+優れたファシリテーターは、高レベルの感情知能を持つ傾向があります。これは、個人がどのように感じているかを理解するために、他者の非言語的な手がかりを簡単に読み取ることができることを意味します。彼らはこの感覚を使って、誰もが快適に話せる環境を育みます。大規模な組織では、レトロスペクティブの進行方法を学ぶことに興味のある個人をコーチする、自信を持ったレトロスペクティブファシリテーターのギルドさえあるかもしれません。これらの個人には、アジャイルコーチ、エンジニア、プロジェクトマネージャーなどが含まれますが、これらに限定されません。
 
-When searching for individuals in your organization to help facilitate retrospectives, look for those with these core competencies:
+組織内でレトロスペクティブを進行するのを手伝う個人を探す際には、これらのコアコンピテンシーを持つ人を探してください：
 
-- Ability to read non-verbal cues to assess how people are feeling in the room to see who might have something to say.
-- Can paraphrase what is said to clarify for self and others.
-- Asks open-ended questions to stimulate deeper thinking.
-- Is comfortable interrupting when discussion gets off track or someone dominates the discussion.
-- Redirects discussion to focus on the team's goals.
-- Keeps track of time and gives team members time reminders.
-- Drives the discussion to making decisions and action items.
+- 部屋で人々がどのように感じているかを評価し、何か言いたいことがあるかもしれない人を見るために非言語的な手がかりを読む能力。
+- 自分自身と他者のために明確にするために言われたことを言い換えることができる。
+- より深い思考を刺激するためにオープンエンドの質問をする。
+- 議論が脱線したり、誰かが議論を支配したりした場合に中断することに快適である。
+- チームの目標に焦点を当てるために議論を方向転換する。
+- 時間を追跡し、チームメンバーに時間の通知を与える。
+- 決定とアクションアイテムを作るために議論を推進する。
 
-Retrospective facilitators do not need to be experts in the attending team's processes. They do not need to be well-versed in the content of the discussion. **Remember, the facilitator does not contribute their own opinions about the discussion but works to get participants to think and speak.** The retrospective participants are the experts on their work, and the facilitator asks the right questions to encourage them to share information with the team.
+レトロスペクティブのファシリテーターは、参加チームのプロセスの専門家である必要はありません。彼らは議論の内容に精通している必要はありません。**ファシリテーターは議論に関する自分の意見を貢献するのではなく、参加者に考えて話すように働きかけることを忘れないでください。** レトロスペクティブの参加者は自分たちの仕事の専門家であり、ファシリテーターは彼らがチームと情報を共有するよう促すための適切な質問をします。
 
-The facilitator should, however, be familiar with the retrospective process and the goals of the retrospective so they can guide the team's discussion to achieve set goals.
+しかし、ファシリテーターはレトロスペクティブのプロセスとレトロスペクティブの目標に精通しているべきです。そうすることで、設定された目標を達成するためにチームの議論を導くことができます。
 
-## Responsibilities
-Read up on the [role of the retrospective facilitator](getting_started.md#role-of-the-facilitator) to see what is expected from them.
+## 責任
+[レトロスペクティブファシリテーターの役割](getting_started.md#role-of-the-facilitator)について読んで、彼らに期待されていることを確認してください。
 
-## Training Process
-The process for training retrospective facilitators is constantly evolving. Here are things you can do to get started on developing your retrospective facilitation skills:
+## トレーニングプロセス
+レトロスペクティブファシリテーターのトレーニングプロセスは常に進化しています。以下は、レトロスペクティブのファシリテーションスキルの開発を始めるためにできることです：
 
-- **Read this guide!**
-- Set up one-on-one time with an experienced retrospective facilitator in your organization to ask them questions.
-- Shadow a retrospective to see how it's run.
-- During the retrospective, observe and write down any questions you have for the facilitator.
-- After the retrospective, have a debrief with the facilitator. Ask them your questions, focusing on understanding:
-- Why the facilitator posed certain questions to retrospective participants.
-- Why the facilitator gave the team more time to discuss some topics over others.
-- Reverse shadow a retrospective facilitator.
-- Facilitate the retrospective to the best of your ability.
-- The experienced facilitator will also be there to support you if needed.
+- **このガイドを読んでください！**
+- 組織内の経験豊富なレトロスペクティブファシリテーターと1対1の時間を設定して、質問をします。
+- レトロスペクティブをシャドウイングして、どのように実行されるかを見ます。
+- レトロスペクティブ中に、ファシリテーターに対する質問を観察し、書き留めます。
+- レトロスペクティブの後、ファシリテーターとデブリーフを行います。質問をして、以下を理解することに焦点を当てます：
+- なぜファシリテーターがレトロスペクティブの参加者に特定の質問をしたのか。
+- なぜファシリテーターがチームに他のトピックよりもいくつかのトピックを議論するためのより多くの時間を与えたのか。
+- レトロスペクティブファシリテーターを逆シャドウイングします。
+- 最善を尽くしてレトロスペクティブを進行します。
+- 経験豊富なファシリテーターも必要に応じてあなたをサポートするためにそこにいます。
 
-## Graduation
-Once you're comfortable facilitating retrospectives independently, congratulations—you may now call yourself a retrospective facilitator!
+## 卒業
+独立してレトロスペクティブを進行することに快適になったら、おめでとうございます—あなたは今、自分自身をレトロスペクティブファシリテーターと呼ぶことができます！
 
-Don't forget to inform teams requiring a retrospective facilitator that you're now available to support them.
+レトロスペクティブファシリテーターを必要とするチームに、あなたが今彼らをサポートするために利用可能であることを知らせることを忘れないでください。
 
-## Pocket Reference Guide
-Every retrospective is different, but there's a common process you can apply to each one.
+## ポケットリファレンスガイド
+すべてのレトロスペクティブは異なりますが、それぞれに適用できる共通のプロセスがあります。
 
-![Facilitating Retros](/assets/images/facilitating_retrospectives.png)
+![レトロスペクティブの進行](/assets/images/facilitating_retrospectives.png)
 
-### Set the Stage
-Setting the stage involves establishing the purpose of the retrospective and warming the participants up for discussion. This preparation step will encourage every participant to participate later during the retrospective.
+### 場の設定
+場の設定には、レトロスペクティブの目的を確立し、議論のために参加者をウォームアップすることが含まれます。この準備ステップは、後でレトロスペクティブ中に参加するようすべての参加者を奨励します。
 
-1. Remind the participants why they're here. Say "The purpose of today's retrospective is to discuss what went well and what we could have done differently during the most recent work cadence/project X/etc."
-1. Warm up the participants for discussion. Ask "What's one word or one image to describe how you feel about the most recent work cadence/completed project?" Taking turns, each participant shares their sentiment and a brief explanation of their rationale.
+1. 参加者になぜここにいるのかを思い出させます。「今日のレトロスペクティブの目的は、最近の作業ケイデンス/プロジェクトX/などの間に何がうまくいったか、何を違うようにできたかについて議論することです」と言います。
+1. 議論のために参加者をウォームアップします。「最近の作業ケイデンス/完了したプロジェクトについてどのように感じているかを表す一言または一つの画像は何ですか？」と尋ねます。順番に、各参加者は自分の感情と理由の簡単な説明を共有します。
 
-### Gather Data
-The next step is to gather data about the retrospective focus from the participants. This is an information-gathering step that reminds the participants of what they've recently come across in their work.
+### データの収集
+次のステップは、参加者からレトロスペクティブの焦点に関するデータを収集することです。これは、参加者が最近の仕事で遭遇したことを思い出させる情報収集ステップです。
 
-1. Give participants individual brainstorming time. Say "Take X minutes to answer the guiding questions on Trello cards/sticky notes."
-1. Check in with the participants near the end of the timebox for brainstorming. Ask "We have X minutes left. Do you need a couple more minutes?"
+1. 参加者に個別のブレインストーミング時間を与えます。「Trelloカード/付箋に誘導質問に答えるためにX分かかります」と言います。
+1. ブレインストーミングのタイムボックスの終わり近くに参加者と確認します。「残りX分あります。もう数分必要ですか？」と尋ねます。
 
-### Generate Insights
-After gathering the participants' data, it's time for them to discuss their topic/discussion ideas in more detail.
+### 洞察の生成
+参加者のデータを収集した後、彼らがトピック/議論のアイデアをより詳細に議論する時間です。
 
-1. Gather additional, relevant context from participants. Ask "Can you provide additional context behind what you've written on this Trello card/sticky note?" or "Why did this experience make you feel the way it did?"
-1. Stimulate deeper discussion about a topic as you deem appropriate. Ask the participants [probing questions](http://schoolreforminitiative.org/doc/probing_questions_guide.pdf).
+1. 参加者から追加の関連コンテキストを収集します。「このTrelloカード/付箋に書いたことの背後にある追加のコンテキストを提供できますか？」または「なぜこの経験があなたをそのように感じさせたのですか？」と尋ねます。
+1. 適切と思われるトピックについてより深い議論を刺激します。参加者に[探索的質問](http://schoolreforminitiative.org/doc/probing_questions_guide.pdf)をします。
 
-### Decide on Action
-Once the participants have generated insights, they need to decide on what action to take to address their concerns and determine ownership of these actions.
+### アクションの決定
+参加者が洞察を生成した後、彼らは懸念に対処するためにどのようなアクションを取るかを決定し、これらのアクションの所有権を決定する必要があります。
 
-1. Shepherd the participants towards finding a few changes they can focus on. Ask:
- - "What can we do to improve a bad situation?"
- - "Is there a good situation that can be made better?"
- - "Is there a good situation we can replicate to do more good in another area of our work?"
-1. Document the action items generated by the participants. Make sure they're visible to the participants. If you're facilitating the participants' next retrospective, be sure to follow up on these action items to see what progress was made toward addressing the issue(s).
-1. Remind the participants to assign ownership to each action item they generate. Ask "Who will own this action item?" This holds the team accountable to accomplish what they had set out to do.
+1. 参加者が焦点を当てることができるいくつかの変更を見つけるよう導きます。以下を尋ねます：
+ - 「悪い状況を改善するために何ができますか？」
+ - 「より良くできる良い状況はありますか？」
+ - 「私たちの仕事の別の領域でより多くの良いことをするために複製できる良い状況はありますか？」
+1. 参加者によって生成されたアクションアイテムを文書化します。それらが参加者に見えることを確認してください。あなたが参加者の次のレトロスペクティブを進行する場合は、これらのアクションアイテムをフォローアップして、問題に対処するためにどのような進捗があったかを確認することを忘れないでください。
+1. 参加者に、彼らが生成する各アクションアイテムに所有権を割り当てるよう思い出させます。「誰がこのアクションアイテムを所有しますか？」と尋ねます。これにより、チームは彼らが行うことを設定したことを達成するための責任を持ちます。
 
-### Close the Retrospective
-After action items have been determined and assigned, the facilitator wraps up the retrospective.
+### レトロスペクティブの終了
+アクションアイテムが決定され、割り当てられた後、ファシリテーターはレトロスペクティブを締めくくります。
 
-1. Thank the participants. Say "Thanks for everyone's time and participation."
-1. Recap key information from the retrospective. Say "We discussed these major topics today and decided to carry out these action items."
-1. Review participants' appreciations for each other. Say "We'll go through everyone's appreciations one at a time now. When we get to your Trello card/sticky note, read your thank-you message aloud."
+1. 参加者に感謝します。「皆さんの時間と参加に感謝します」と言います。
+1. レトロスペクティブからの主要な情報を要約します。「今日はこれらの主要なトピックについて議論し、これらのアクションアイテムを実行することを決定しました」と言います。
+1. 参加者の互いに対する感謝を確認します。「今から一度に一人ずつ、皆さんの感謝を通過します。あなたのTrelloカード/付箋に到達したら、あなたの感謝のメッセージを声に出して読んでください」と言います。
